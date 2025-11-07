@@ -37,7 +37,7 @@ The following resources can be useful for learning what you'll need to know abou
 
 ## Quickest Start ##
 
-FarmData2 makes use of the following key technologies. HTML, CSS and Bootstrap, JavaScript with Vue.js and Axios, and Cypress for testing. If you are familiar all or most of those it may be sufficient to start by having a look at any of the modules in [farmdata2_modules/fd2_tabs](https://github.com/DickinsonCollege/FarmData2/tree/main/farmdata2_modules/fd2_tabs). The [fd2_example/README.md](https://github.com/DickinsonCollege/FarmData2/blob/main/farmdata2_modules/fd2_tabs/fd2_example/README.md) provides the essential information about how to add and test new FarmData2 features.
+FarmData2 makes use of the following key technologies. HTML, CSS and Bootstrap, JavaScript with Vue.js and axios, and Cypress for testing. If you are familiar all or most of those it may be sufficient to start by having a look at any of the modules in [farmdata2_modules/fd2_tabs](https://github.com/DickinsonCollege/FarmData2/tree/main/farmdata2_modules/fd2_tabs). The [fd2_example/README.md](https://github.com/DickinsonCollege/FarmData2/blob/main/farmdata2_modules/fd2_tabs/fd2_example/README.md) provides the essential information about how to add and test new FarmData2 features.
 
 ## FarmData2 School ##
 
